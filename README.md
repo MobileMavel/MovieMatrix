@@ -10,7 +10,7 @@ The aim of this test project is to get hands-on experience on SwiftUI developmen
 
 ## 🚀 Functionality
 <p> 1 - Retrieve a list of popular movies from a designated endpoint and present them in a grid format.</p>
-<p> 2 - Upon selecting any movie, proceed to a separate view to access detailed information about the chosen movi.e</p>
+<p> 2 - Upon selecting any movie, proceed to a separate view to access detailed information about the chosen movie.</p>
 <p> 3 - The detailed information encompasses any movie overview, rating, genres, release date and its production companies.</p>
 
 ## 💯 Concepts Utilised
